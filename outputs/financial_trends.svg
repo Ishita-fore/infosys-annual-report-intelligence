@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="460" viewBox="0 0 920 460">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<style>text{font-family:Arial,sans-serif;fill:#243447}.title{font-size:19px;font-weight:bold}.label{font-size:13px}.tick{font-size:11px;fill:#687789}</style>
+<text x="28" y="30" class="title">Infosys five-year financial trends</text>
+<text x="70" y="68" class="title">Revenue (₹ crore)</text>
+<line x1="70" y1="350" x2="430" y2="350" stroke="#9aa8b6"/>
+<line x1="70" y1="92" x2="70" y2="350" stroke="#9aa8b6"/>
+<line x1="70" y1="350" x2="430" y2="350" stroke="#e8edf2"/>
+<text x="62" y="354" text-anchor="end" class="tick">0</text>
+<line x1="70" y1="285.5" x2="430" y2="285.5" stroke="#e8edf2"/><text x="62" y="289.5" text-anchor="end" class="tick">50,000</text>
+<line x1="70" y1="221" x2="430" y2="221" stroke="#e8edf2"/><text x="62" y="225" text-anchor="end" class="tick">100,000</text>
+<line x1="70" y1="156.5" x2="430" y2="156.5" stroke="#e8edf2"/><text x="62" y="160.5" text-anchor="end" class="tick">150,000</text>
+<line x1="70" y1="92" x2="430" y2="92" stroke="#e8edf2"/><text x="62" y="96" text-anchor="end" class="tick">200,000</text>
+<text x="88" y="372" text-anchor="middle" class="label">FY22</text><text x="169" y="372" text-anchor="middle" class="label">FY23</text><text x="250" y="372" text-anchor="middle" class="label">FY24</text><text x="331" y="372" text-anchor="middle" class="label">FY25</text><text x="412" y="372" text-anchor="middle" class="label">FY26</text>
+<polyline points="88,193.5 169,160.7 250,151.9 331,139.8 412,119.2" fill="none" stroke="#0b6e69" stroke-width="3"/>
+<circle cx="88" cy="193.5" r="5" fill="#0b6e69"/><text x="88" y="183.5" text-anchor="middle" class="tick">121,641</text>
+<circle cx="169" cy="160.7" r="5" fill="#0b6e69"/><text x="169" y="150.7" text-anchor="middle" class="tick">146,767</text>
+<circle cx="250" cy="151.9" r="5" fill="#0b6e69"/><text x="250" y="141.9" text-anchor="middle" class="tick">153,670</text>
+<circle cx="331" cy="139.8" r="5" fill="#0b6e69"/><text x="331" y="129.8" text-anchor="middle" class="tick">162,990</text>
+<circle cx="412" cy="119.2" r="5" fill="#0b6e69"/><text x="412" y="109.2" text-anchor="middle" class="tick">178,650</text>
+<text x="500" y="68" class="title">Net profit (₹ crore)</text>
+<line x1="500" y1="350" x2="860" y2="350" stroke="#9aa8b6"/><line x1="500" y1="92" x2="500" y2="350" stroke="#9aa8b6"/>
+<line x1="500" y1="350" x2="860" y2="350" stroke="#e8edf2"/><text x="492" y="354" text-anchor="end" class="tick">0</text>
+<line x1="500" y1="276.3" x2="860" y2="276.3" stroke="#e8edf2"/><text x="492" y="280.3" text-anchor="end" class="tick">10,000</text>
+<line x1="500" y1="202.6" x2="860" y2="202.6" stroke="#e8edf2"/><text x="492" y="206.6" text-anchor="end" class="tick">20,000</text>
+<line x1="500" y1="128.9" x2="860" y2="128.9" stroke="#e8edf2"/><text x="492" y="132.9" text-anchor="end" class="tick">30,000</text>
+<text x="518" y="372" text-anchor="middle" class="label">FY22</text><text x="599" y="372" text-anchor="middle" class="label">FY23</text><text x="680" y="372" text-anchor="middle" class="label">FY24</text><text x="761" y="372" text-anchor="middle" class="label">FY25</text><text x="842" y="372" text-anchor="middle" class="label">FY26</text>
+<polyline points="518,187.0 599,172.3 680,156.6 761,153.1 842,133.0" fill="none" stroke="#3157a4" stroke-width="3"/>
+<circle cx="518" cy="187.0" r="5" fill="#3157a4"/><text x="518" y="177.0" text-anchor="middle" class="tick">22,110</text>
+<circle cx="599" cy="172.3" r="5" fill="#3157a4"/><text x="599" y="162.3" text-anchor="middle" class="tick">24,095</text>
+<circle cx="680" cy="156.6" r="5" fill="#3157a4"/><text x="680" y="146.6" text-anchor="middle" class="tick">26,233</text>
+<circle cx="761" cy="153.1" r="5" fill="#3157a4"/><text x="761" y="143.1" text-anchor="middle" class="tick">26,713</text>
+<circle cx="842" cy="133.0" r="5" fill="#3157a4"/><text x="842" y="123.0" text-anchor="middle" class="tick">29,440</text>
+<text x="28" y="430" class="tick">Amounts in ₹ crore. Source: annual-report financial highlights; citations in the accompanying report.</text>
+</svg>

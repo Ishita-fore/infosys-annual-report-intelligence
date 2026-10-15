@@ -1,0 +1,16 @@
+# Python virtual environment and cache
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Local RAG database (large; retain in ZIP backup)
+data/chroma_db/
+
+# Local environment and secrets
+.env
+.env.*
+
+# Keep the project source, reports, and dependencies tracked
+data/raw/
+data/processed/
